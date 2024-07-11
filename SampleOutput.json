@@ -1,0 +1,71 @@
+{
+"status": "ok",
+"totalResults": 5,
+"articles": [
+{
+"source": {
+"id": "usa-today",
+"name": "USA Today"
+},
+"author": ", USA TODAY",
+"title": "Ozempic and Wegovy linked to optic nerve stroke, possible blindness - USA TODAY",
+"description": "A study found semaglutide users are likelier experience a stroke of the optic nerve that causes blindness.",
+"url": "https://www.usatoday.com/story/news/health/2024/07/03/ozempic-wegovy-optic-nerve-stroke-blindness/74278241007/",
+"urlToImage": "https://www.gannett-cdn.com/authoring/authoring-images/2024/07/03/USAT/74287585007-usatsi-21519642.jpg?auto=webp&crop=3599,2025,x0,y187&format=pjpg&width=1200",
+"publishedAt": "2024-07-05T14:35:54Z",
+"content": "Patients who took the frequently prescribed diabetes and weight-loss drugs Ozempic and Wegovy faced a greater risk of a stroke of the optic nerve, which can lead to blindness, according to a new stud… [+4957 chars]"
+},
+{
+"source": {
+"id": "associated-press",
+"name": "Associated Press"
+},
+"author": "BRIAN MELLEY, JILL LAWLESS",
+"title": "UK elections: Starmer will be next prime minister, Sunak resigns - The Associated Press",
+"description": "British Prime Minister Keir Starmer says he will lead a “government of service” on a mission of national renewal in his first official remarks after his Labour Party swept to power in a landslide victory after more than a decade in opposition. Starmer led his…",
+"url": "https://apnews.com/article/uk-elections-2024-result-labour-starmer-exit-sunak-e94f379ea893ec17711fd82cec03b603",
+"urlToImage": "https://dims.apnews.com/dims4/default/222b284/2147483647/strip/true/crop/3448x1940+0+234/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F55%2Fb2%2F4aca760376d40642180574832162%2Ff2786f1e34ec45498d9832f00e09b755",
+"publishedAt": "2024-07-05T14:32:00Z",
+"content": "LONDON (AP) British Prime Minister Keir Starmer said he would lead a government of service on a mission of national renewal in his first official remarks Friday after his Labour Party swept to power … [+7425 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "BBC News"
+},
+"author": null,
+"title": "California wildfires: Nearly 30,000 evacuated - BBC.com",
+"description": "Officials warn residents not to use fireworks on 4 July because of risk of starting more blazes.",
+"url": "https://www.bbc.com/news/articles/c10lve5zr81o",
+"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/376e/live/382fb7b0-3a0a-11ef-a044-9d4367d5b599.jpg",
+"publishedAt": "2024-07-05T14:15:52Z",
+"content": "By Mallory Moench, BBC News\r\nThousands of people in northern California have been told to leave their homesas wildfires grow across the state during a heatwave.\r\nAbout 28,000 people were under evacua… [+3842 chars]"
+},
+{
+"source": {
+"id": "google-news",
+"name": "Google News"
+},
+"author": null,
+"title": "Hurricane Beryl Striking Cancún, Cozumel, Mexico | Weather.com - The Weather Channel",
+"description": null,
+"url": "https://admin.google.com/ServiceNotAllowed",
+"urlToImage": null,
+"publishedAt": "2024-07-05T14:11:00Z",
+"content": "We are sorry, but you do not have access to Google News. Some reasons why you may not have access: \r\n<ul><li>Your account is managed by an organization that has this service turned off for its users.… [+306 chars]"
+},
+{
+"source": {
+"id": "google-news",
+"name": "Google News"
+},
+"author": "New York Post ",
+"title": "Livvy Dunne, SI Swimsuit models stun at Michael Rubin's white party - New York Post ",
+"description": null,
+"url": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vbnlwb3N0LmNvbS8yMDI0LzA3LzA1L3Nwb3J0cy9saXZ2eS1kdW5uZS1zaS1zd2ltc3VpdC1tb2RlbHMtc3R1bi1hdC1taWNoYWVsLXJ1Ymlucy13aGl0ZS1wYXJ0eS_SAQA?oc=5",
+"urlToImage": null,
+"publishedAt": "2024-07-05T14:07:00Z",
+"content": null
+}
+]
+}
